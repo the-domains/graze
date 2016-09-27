@@ -1,0 +1,25 @@
+typography_spectrum: 0.5877569445874542
+color:
+  brandStrength: 0.32285261363722384
+  lightness: 0.06532944575883448
+  saturation: 0.8602834397461265
+  rhythmicContrast: 0.7810578709468246
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.47590257530100644
+author:
+  name: Bianca Howard
+  email: biancajhoward@yahoo.com.au
+  url: 'https://thegrid.ai/graze/'
+name: Graze
+title: Amazing Platters for Amazing Events
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:biancajhoward@yahoo.com.au'
+    label: Get a Quote
